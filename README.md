@@ -18,7 +18,7 @@ O arquivo que ainda estou mexendo: webscrap_site_correio.py
 
 Fontes de Estudos(recomendo):
 [!](https://docs.python.org/pt-br/3/library/urllib.request.html#examples)
-https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/
+[!](https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/)
 https://www.it-swarm.dev/pt/python/como-obter-valor-da-tabela-td-no-beautifulsoup/1056227753/
 https://medium.com/horadecodar/como-fazer-webscraping-com-python-e-beautiful-soup-28a65eee2efd
 https://www.vooo.pro/insights/guia-para-iniciantes-de-web-scraping-em-python-usando-beautifulsoup/
