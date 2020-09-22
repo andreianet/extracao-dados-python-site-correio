@@ -11,13 +11,13 @@ O módulo "urllib.request" define funções e classes que ajudam a abrir URLs (p
 Beautifulsoup é uma biblioteca que extrai dados de arquivos em html e xml. Funciona como interpretador, parseando pelo seu arquivo de forma que você coleta aquilo que necessita/precisa.
 
 O arquivo que ainda estou mexendo: webscrap_site_correio.py
-Os outros arquivos são testes/exemplos que achei pesquisando sobre o assunto.
+
 
 
 
 
 Fontes de Estudos(recomendo):
-https://docs.python.org/pt-br/3/library/urllib.request.html#examples
+[!](https://docs.python.org/pt-br/3/library/urllib.request.html#examples)
 https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/
 https://www.it-swarm.dev/pt/python/como-obter-valor-da-tabela-td-no-beautifulsoup/1056227753/
 https://medium.com/horadecodar/como-fazer-webscraping-com-python-e-beautiful-soup-28a65eee2efd
